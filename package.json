@@ -1,0 +1,27 @@
+{
+  "name": "twodee",
+  "version": "1.0.0",
+  "description": "2D graphics library for HTML5 canvas",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "tap ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Flushot/twodee"
+  },
+  "keywords": [
+    "2d",
+    "graphics",
+    "canvas"
+  ],
+  "author": "Chris Lyon",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/Flushot/twodee/issues"
+  },
+  "homepage": "https://github.com/Flushot/twodee",
+  "devDependencies":{
+      "tap":"0.1.4"
+   }
+}
